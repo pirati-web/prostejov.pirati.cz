@@ -1,1 +1,1 @@
-# prostejov.pirati.cz
+# olomouc.pirati.cz
