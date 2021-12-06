@@ -1,17 +1,20 @@
 ---
 layout: contacts
-title: Kontaktní informace
-description: Pirátská strana v Praze 11 je otevřená a ráda přivítá nové členy, dobrovolníky a odpoví na vaše dotazy
+residence: yes
+description: Pirátská strana je otevřená i ve Středočeském kraji, ráda přivítá dobrovolníky a odpoví na dotazy veřejnosti.
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
-noresidence: yes
-contactPersons:
-  - josef.kocourek
-  - bara.soukupova
 ---
- <h1>Přidejte se k nám</h1>
+## Přidejte se
 
-Zajámá vás co Piráti dělají a jak? [Ozvěte se nám](mailto:praha11@pirati.cz) nebo přijďte k nám na otevřenou schůzi. Pořádáme je obvykle poslední pondělí v měsíci, lokalita je vždy upřesněna, sledujte náš [Facebook](https://www.facebook.com/pg/pirati11.cz/events/?ref=page_internal) .
+Pirátská strana je otevřená i ve Středočeském kraji, ráda přivítá dobrovolníky a odpoví na dotazy veřejnosti.
 
-Budeme rádi za jákekoliv vaše náměty, nebo připomínky.
+Pokud se chcete zapojit a nevíte jak na to, koukněte na naši [stránku pro zájemce o členství a registrované příznivce](/zajemci).
 
-* <a class="c-emphasized-anchor" href="{{ site.facebook.profilePage }}">Sledujte nás na Facebooku</a>
+## Kde nás najdete
+
+Využíváme [Pirátské centrum v Praze](https://praha.pirati.cz/pice/), ale pravidelně se scházíme na výjezdech po celém kraji. Schůze jsou vždy v kalendáři a jste na ně zváni. Dále pravidelně pořádáme setkání pro zájemce o členství nebo “Pivo s poslancem”, v našem kraji s Lenkou Kozlovou a Františkem Kopřivou.
+
+## Další informace
+
+Spoustu zajímavých informací najdete v článcích na tomto webu, ale také v elektronických verzích tištěných Pirátských listů z našeho kraje. Více na stránce [Archiv Pirátských listů](/piratske-listy/).
+

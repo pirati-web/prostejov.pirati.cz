@@ -1,1 +1,1 @@
-# prostejov.pirati.cz
+# prerov.pirati.cz

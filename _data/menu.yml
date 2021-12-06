@@ -8,35 +8,51 @@ top:
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
     icon: "ico--newspaper"
-
+#  - link: "Uplynulé volby"
+    #url: "/volby-2018/"
+    #icon: "fa fa-bar-chart"
 
 main:
   - link: /aktuality/
     name: Aktuality
+    match: aktuality
   - link: /lide/
     name: Lidé
-  - link: /program/
-    name: Program
-  - link: https://www.piratiastarostove.cz/kandidati/kraj/praha/
-    name: Volby 2021    
+    match: lide
+  - link: /pepr/
+    name: Pirátské centrum
+    match: pepr
+  - link: /mistni-sdruzeni/
+    name: Místní sdružení
+    match: mistni-sdruzeni
+
   - link: /kontakt/
-    name: Kontakt
+    name: Kontakty
+    match: kontakt
 
 bottom:
   - class: small-12 medium-4
     title: Připoj se
     links:
+      - link: https://stredocesky.pirati.cz/zajemci
+        name: Naloď se
+      - link: /mistni-sdruzeni/
+        name: Místní sdružení
       - link: /kontakt/
         name: Dej nám vědět
-      - link: "https://nalodeni.pirati.cz"
-        name:  Nalodění
   - class: small-12 medium-4
     title: Makáme
     links:
-      - link: /lide/
-        name: Lidé
       - link: /aktuality/
         name: Aktuality
+      - link: /lide/
+        name: Lidé
+      - link: /kalendar/
+        name: Kalendář
+      - link: /piratske-listy/
+        name: Pirátské listy
+      - link: /volby/
+        name: Volby
   - class: small-12 medium-4
     title: Otevřenost
     links:
@@ -44,5 +60,7 @@ bottom:
         name: Transparentní účet
       - link: https://smlouvy.pirati.cz
         name: Registr smluv
+      - link: https://evidence.pirati.cz
+        name: Evidence schůzek
       - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
         name: Otevřené účetnictví
