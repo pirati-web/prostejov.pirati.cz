@@ -5,32 +5,32 @@
 # technické nastavení
 #
 
-title: Piráti - Přerov # To co je napsané na tabu ve kterém je stránka.
-email: prerov@pirati.cz
+title: Piráti - Prostějov # To co je napsané na tabu ve kterém je stránka.
+email: prostejov@pirati.cz
 description: >-
-  Česká pirátská strana - Přerov
+  Česká pirátská strana - Prostějov
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: přerov, piráti, česká pirátská strana, politická strana, politika, demokracie, svoboda, otevřenost, transparentnost
+keywords: prostějov, piráti, česká pirátská strana, politická strana, politika, demokracie, svoboda, otevřenost, transparentnost
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://prerov.pirati.cz" # the base hostname & protocol for your site
+url: "https://prostejov.pirati.cz" # the base hostname & protocol for your site
 
-mediaStorage: prerov
+mediaStorage: prostejov
 
 administrator:
   email: jan.suchanek@gmail.com, honza.dvorak@pirati.cz, jaromirhorky14@gmail.com
 
 organization:
-  name: Piráti - Přerov
-  shortName: Piráti - Přerov
-  email: prerov@pirati.cz
+  name: Piráti - Prostějov
+  shortName: Piráti - Prostějov
+  email: prostejov@pirati.cz
   phone: +420 778 111 488
   address: |
-    Picolo Olomouc
-    8. května 522/5,
-    779 00 Olomouc
+    Piráti Prostějov
+    T. G. Masaryka 28
+    796 01 Prostějov
   residenceImg: https://a.pirati.cz/prrov/img/pice-mapa.png
   mapLink: https://en.mapy.cz/zakladni?x=14.4153018&y=50.0734551&z=17&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203%2C%20Praha%202
-  redmineLink: https://redmine.pirati.cz/projects/prerov
+  redmineLink: https://redmine.pirati.cz/projects/ms-prostejov
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
 
@@ -62,8 +62,8 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/PiratiPrerov
-  profilePageName: Piráti - Přerov
+  profilePage: https://www.facebook.com/PiratiProstejov
+  profilePageName: Piráti - Prostějov
   #appId: 1526197851008996
 
 twitter:
@@ -83,7 +83,7 @@ forum:
   page: https://forum.pirati.cz/viewforum.php?f=655
 
 github:
-  url: https://github.com/pirati-web/prerov.pirati.cz/
+  url: https://github.com/pirati-web/prostejov.pirati.cz/
   branch: master
 
 youtube:
