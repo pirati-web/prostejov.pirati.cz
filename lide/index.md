@@ -17,12 +17,12 @@ groups:
   - name: Poslanci
     category: poslanci
     sort: ordpos
+  - name: Krajští zastupitelé
+    category: kraj-zastupitele
+    sort: ordzask
   - name: Místní zastupitelé
     category: zastupitele
     sort: ordzas
-  - name: Členové
-    category: clenove
-    sort: ordclenove 
   - name: Předsedové místních sdružení
     category: predsedove-ms
     sort: ordmis 
