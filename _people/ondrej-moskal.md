@@ -5,6 +5,7 @@ fullname: Ondřej Moskal   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - prostejov
 - predsedove-ms
+- kontaktni_osoba
 position: Předseda místního sdružení
 img: people/ondrej-moskal.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
