@@ -6,8 +6,8 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - predsedove-ms
 
 position:
-img: people/           # 165 x 220
-img-full: people/jakub_smid.jpg                     # větší obrázek zobrazený na podrobném profilu
+img: people/jakub_smid.jpg           # 165 x 220
+img-full:                    # větší obrázek zobrazený na podrobném profilu
 description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
 mail:
 - jakub.smid@pirati.cz
