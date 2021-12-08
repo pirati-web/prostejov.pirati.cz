@@ -10,7 +10,7 @@ img: people/ondrej-moskal.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Předseda místního sdružení Prostějov                # kratký popis, max 160 znaků
 mail:
-ordmis: 3
+ordmis: 1
 heroImg: banner-default.jpg
 published: true
 --- 
