@@ -3,7 +3,8 @@ uid: kuba.smid
 name:     Kuba Šmíd        # běžně používáné jméno
 fullname: Jakub Šmíd  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
-- 
+- predsedove-ms
+
 position:
 img: people/           # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
@@ -16,6 +17,7 @@ profiles:
   facebook:       
   twitter:        
   flickr:       
+ordmis: 3
 heroImg: banner-default.jpg
 published: true
 ---
