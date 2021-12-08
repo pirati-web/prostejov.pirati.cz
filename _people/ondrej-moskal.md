@@ -7,10 +7,11 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - predsedove-ms
 - kontaktni_osoba
 position: Předseda místního sdružení
-img: people/ondrej-moskal.jpg             # 165 x 220
+img: people/moskal_ondrej.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Předseda místního sdružení Prostějov                # kratký popis, max 160 znaků
-mail:
+mail: ondrej.moskal@pirati.cz
+mob: 721 427 726
 ordmis: 1
 heroImg: banner-default.jpg
 published: true
