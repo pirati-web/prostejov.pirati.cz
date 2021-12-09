@@ -5,8 +5,8 @@ keywords: cepp, pirátské-centrum, centrum
 title: CEPP - Centrum prostějovských Pirátů
 shorthand: CEPP
 openingHoursSEO: Mo Pondělí 9-13 hodin, mimo tuto dobu po domluvě
-heroHeadline: Zbrusu nové pirátské centrum PEPŘ!
-heroDescription: PEPŘ - Pirátské epicentrum Přerov
+heroHeadline: Zbrusu nové pirátské centrum CEPP!
+heroDescription: CEPP - Centrum prostějovských Pirátů
 heroImg: cepp-centrum.jpg
 img: cepp-centrum.jpg
 address: |
