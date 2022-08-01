@@ -10,10 +10,10 @@ img-full:                     # větší obrázek zobrazený na podrobném profi
 description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
 mail:
 - filip.pecha@pirati.cz
-mob:         
+mob: 775 691 110  
 profiles:
-  github:
-  facebook:       
+  github: https://github.com/filippecha
+  facebook: https://www.facebook.com/Fredy176/       
   twitter:        
   flickr:       
 heroImg: banner-default.jpg
