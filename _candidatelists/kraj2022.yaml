@@ -25,7 +25,7 @@ head:
       position: 3
       name: Petr Kapounek
       age: 35
-      profession: Podnikatel, projektový manažer, zastupitel města</br></br>
+      profession: Podnikatel, projektový manažer, zastupitel města&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       city: Prostějov
       partyUid: pirati
       
@@ -33,7 +33,7 @@ head:
       position: 4
       name: Bc. Ondřej Moskal
       age: 25
-      profession: Ekonom, student VŠ, člen Spolku za staré Vrahovice</br></br>
+      profession: Ekonom, student VŠ, člen Spolku za staré Vrahovice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       city: Prostějov - Vrahovice
       partyUid: pirati
       
