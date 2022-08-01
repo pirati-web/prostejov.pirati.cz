@@ -17,7 +17,7 @@ head:
       position: 2
       name: Ing. Petr Lysek
       age: 56
-      profession: Projektant, uvolněný člen Rady Olomouckého kraje, zastupitel města&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      profession: Projektant, uvolněný člen Rady Olomouckého kraje, zastupitel města
       city: Prostějov
       partyUid: pirati
       
@@ -25,7 +25,7 @@ head:
       position: 3
       name: Petr Kapounek
       age: 35
-      profession: Podnikatel, projektový manažer, zastupitel města&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      profession: Podnikatel, projektový manažer, zastupitel města
       city: Prostějov
       partyUid: pirati
       
@@ -33,7 +33,7 @@ head:
       position: 4
       name: Bc. Ondřej Moskal
       age: 25
-      profession: Ekonom, student VŠ, člen Spolku za staré Vrahovice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      profession: Ekonom, student VŠ, člen Spolku za staré Vrahovice
       city: Prostějov - Vrahovice
       partyUid: pirati
       
