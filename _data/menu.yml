@@ -13,9 +13,8 @@ top:
     #icon: "fa fa-bar-chart"
 
 main:
-  - link: https://www.prostejov.pirati.cz
+  - link: https://prostejov.pirati.cz
     name: Úvod
-    match: 
   - link: /aktuality/
     name: Aktuality
     match: aktuality
