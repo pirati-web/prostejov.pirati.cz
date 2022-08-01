@@ -1,6 +1,6 @@
 ---
 layout: communal-elections
-title: Odvaha změnit Přerov
+title: Odvaha změnit Prostějov
 heroBgImg: articles/2022/kampan22/prerov-cover.png
 campaignGroupUid: volby-2022
 campaignCategoryUid: kraj2022
