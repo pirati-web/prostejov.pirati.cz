@@ -6,7 +6,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 position:
 img: people/filip-pecha.jpg           # 165 x 220
-img-full:                     # větší obrázek zobrazený na podrobném profilu
+img-full: people/filip-pecha.jpg      # větší obrázek zobrazený na podrobném profilu
 description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
 mail:
 - filip.pecha@pirati.cz
