@@ -6,7 +6,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 position:
 img: people/cecmanova_adela.jpg          # 165 x 220
-img-full: people/pecha_filip.jpg      # větší obrázek zobrazený na podrobném profilu
+img-full: people/cecmanova_adela.jpg       # větší obrázek zobrazený na podrobném profilu
 description: bez politické příslušnosti                # kratký popis, max 160 znaků
 mail:
 - acecmanova@gmail.com
