@@ -16,7 +16,7 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
-    link: /volby-2022/
+  - link: /volby-2022/
     name: Volby
     match: volby-2022
   - link: /lide/
