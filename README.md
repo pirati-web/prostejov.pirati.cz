@@ -1,1 +1,0 @@
-# prerov.pirati.cz
