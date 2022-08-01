@@ -5,7 +5,7 @@ campaignCategoryUid: kraj2022
 campaignGroupUid: kraj2022
 img: program2022/majetek.jpg
 approved:
-garant: jan.mochtak
+garant: Jan.Mochtak
 perex: >
  Dlouhodobým cílem je zvýšení počtu obecních bytů v Prostějově. Jsme přesvědčeni, že jen adekvátní invence ze strany obce může pomoci zvýšit dostupnost a kvalitu bydlení
 order: 1
