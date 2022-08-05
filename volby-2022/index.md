@@ -1,7 +1,7 @@
 ---
 layout: communal-elections
 title: Odvaha změnit Prostějov
-heroBgImg: articles/2022/kampan22/prerov-cover.png
+heroBgImg: https://a.pirati.cz/prostejov/img/Pv-silueta-bez-textu.jpg
 campaignGroupUid: volby-2022
 campaignCategoryUid: kraj2022
 candidateListUid: kraj2022
