@@ -15,9 +15,9 @@ hideCandidateSocialProfiles: true
 
 <!-- {% capture subContent %}
   <h2 class="head-alt-base md:head-alt-md mt-2 text-center">Šance <strong>změnit budoucnost</strong></h2>
+<!-- {% capture subContent %}
   <h2 class="head-alt-base md:head-alt-md mt-2 text-center">Jsme Piráti!</strong></h2>
 {% endcapture %} -->
-
 <!-- {% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %} -->
 
 <h2 class="head-alt-base md:head-alt-md mt-2">Komunální volby 2022</h2>
