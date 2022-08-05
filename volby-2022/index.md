@@ -19,7 +19,4 @@ hideCandidateSocialProfiles: true
 
 <!-- {% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %} -->
 
-<h2 class="head-alt-base md:head-alt-md mt-2">Komunální volby 2022</h2>
- <button class="btn btn--white btn--fullwidth md:btn--autowidth text-lg">
-          <div class="btn__body "><a href="https://nalodeni.pirati.cz/"> Přidejte se k nám</a></div>
-
+<h2 class="head-alt-base md:head-alt-md mt-2">Komunální volby 2022</h2></br></br></br></br></br></br>
