@@ -20,3 +20,4 @@ hideCandidateSocialProfiles: true
 <!-- {% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %} -->
 
 <h2 class="head-alt-base md:head-alt-md mt-2">Komunální volby 2022</h2>
+<div></div>
