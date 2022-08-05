@@ -1,7 +1,7 @@
 ---
 layout: communal-elections
 title: Odvaha změnit Prostějov
-heroBgImg: Pv-silueta-bez-textu2.jpg
+heroBgImg: Pv-silueta-bez-honzy.jpg
 campaignGroupUid: volby-2022
 campaignCategoryUid: kraj2022
 candidateListUid: kraj2022
