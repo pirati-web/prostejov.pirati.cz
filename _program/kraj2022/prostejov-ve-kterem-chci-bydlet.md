@@ -1,5 +1,5 @@
 ---
-title: Bydlení a majetek města
+title: Prostějov, ve kterém chci bydlet
 uid: 2022-krajske-8
 campaignCategoryUid: kraj2022
 campaignGroupUid: kraj2022
