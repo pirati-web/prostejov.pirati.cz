@@ -21,4 +21,6 @@ hideCandidateSocialProfiles: true
 <!-- {% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %} -->
 
 <h2 class="head-alt-base md:head-alt-md mt-2">Komunální volby 2022</h2>
+<div class="mt-4 md:mt-8 space-y-4">
+  {% include buttons/icon.html icon="ico--chevron-right" href="https://drive.google.com/file/d/1XhE3K1vfeApp6D7RcVtoju_Qu67ziD_U/view?usp=sharing" cta="Noviny" class="btn--blue-300 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
 <div></div><div></div><div></div><div></div><div></div>
