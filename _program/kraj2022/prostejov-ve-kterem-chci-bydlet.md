@@ -3,7 +3,7 @@ title: Bydlení a majetek města
 uid: 2022-krajske-8
 campaignCategoryUid: kraj2022
 campaignGroupUid: kraj2022
-img: program2022/majetek.jpg
+img: bydleniPV.png
 approved:
 garant: Jan.Mochtak
 perex: >
