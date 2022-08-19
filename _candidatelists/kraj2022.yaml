@@ -53,5 +53,11 @@ head:
       city: Prostějov
       partyUid: pirati
       
- 
+ -    - uid: Petra.Zapletalova
+      position: 7
+      name: Filip Pecha
+      age: 40
+      profession: lekorka a spolumajitelka jóga studia
+      city: Prostějov
+      partyUid: bezpp
 ---
