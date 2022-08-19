@@ -12,7 +12,7 @@ order: 1
 ---
 
 Příležitosti rozvoje jsou v našich dětech. Proto je naším cílem celkové zvýšení kvality školství a vzdělávání v Prostějově. Opět otevřeme diskusi k možnosti zajištění vysoké školy v Prostějově. Budeme usilovat o zajištění stabilní univerzity “třetího věku” pro všechny dospělé a seniory. Jsme přesvědčeni, že potenciál rozvoje škol stojí na úspěšnosti spolupráce školy, žáků a rodičů. Občany města budeme přímo zapojovat do rozhodování o prostředí, kde žijí, kde se jejich děti učí, kde tráví volný čas.</br>  
-
+<ol>
 <li>Zvýšíme kvalitu škol a prosadíme výběr kvalitních ředitelů. Vedení škol nabídneme maximální oporu pro rozvoj k inovacím, ale i při zvyšování kvality manažerského vedení škol. </li>
 <li>Budeme podporovat vzájemnou spolupráci učitelů, samospráv a občanů. Budeme aktivně zvát rodiče žáků k práci ve školských radách. Budeme iniciovat žákovské parlamenty a zvát aktivní občany do školských výborů a komisí.</li>
 <li>Vytvoříme podmínky pro šíření aktivního využívání moderních technologií ve výuce, budeme podporovat tvorbu a sdílení učebních materiálů mezi učiteli samotnými. Najdeme zdroje financování pro větší uplatnění moderních technologií ve školách.</li>
@@ -25,6 +25,6 @@ Příležitosti rozvoje jsou v našich dětech. Proto je naším cílem celkové
 <li>Zlepšíme podmínky pro rozvoj podnikatelského prostředí v Prostějově tak, aby nebyla svévolně mařena aktivita místních občanů a firem. Podporu místního podnikání, transparentnost a otevřenost ve vztazích obce, občanů a podnikajících subjektů považujeme za základ ekonomického rozvoje obcí a regionů. Upřednostňujeme drobné lokální obchodníky v obci před nadnárodními obchodními řetězci. </li>
 <li>O podporu místního podnikání a lokálních obchodníků se zasadíme i pomocí rozvoje veřejného prostranství například v podobě zajištění míst pro pořádání pravidelných trhů s nabídkou lokálních produktů.</li>
 <li>Prostějov v mobilním telefonu od A do Z. Vytvořená aplikace vás jednoduše upozorní na blížící se akci, budete přes ni moci zaplatit různé poplatky či nabídne potřebné informace.</li>
-
+</ol>
 
 [Kandidátka 2022](/volby-2022/)
