@@ -3,7 +3,7 @@ title: Chytrý a otevřený Prostějov
 uid: 2022-krajske-8
 campaignCategoryUid: kraj2022
 campaignGroupUid: kraj2022
-img: chytryPV.PNG
+img: chytryPV.png
 approved:
 garant: Jan.Mochtak
 perex: >
