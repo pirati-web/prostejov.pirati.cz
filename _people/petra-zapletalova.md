@@ -19,3 +19,4 @@ profiles:
 heroImg: banner-default.jpg
 published: true
 ---
+Kandidátka do zastupitelsva v komunálních volbách 2022
