@@ -32,7 +32,7 @@ head:
     - uid: ondrej.moskal
       position: 4
       name: Bc. Ondřej Moskal
-      age: 25
+      age: 24
       profession: Ekonom, student VŠ, člen Spolku za staré Vrahovice
       city: Prostějov - Vrahovice
       partyUid: pirati
@@ -61,11 +61,52 @@ head:
       city: Prostějov
       partyUid: bezpp
       
-    - uid: cislo.8
+    - uid: kuba.smid
       position: 8
-      name: Číslo 8 žije
-      age: ##
-      profession: ##
+      name: Jakub Šmíd
+      age: 24
+      profession: Student VŠ, skaut
+      city: Prostějov
+      partyUid: pirati
+      
+    - uid: vit.spichal
+      position: 9
+      name: Petra Zapletalová
+      age: 19
+      profession: Student gymnázia
+      city: Prostějov
+      partyUid: pirati
+      
+    - uid: eliska.bursova
+      position: 10
+      name: Eliška Buršová
+      age: 23
+      profession: Studentka VŠ, sociální pracovnice
       city: Prostějov
       partyUid: bezpp
+      
+    - uid: david.chudozilov
+      position: 11
+      name: David Chudožilov
+      age: 19
+      profession: Student FJFI ČVUT
+      city: Prostějov
+      partyUid: bezpp
+      
+    - uid: miroslav.radimersky
+      position: 12
+      name: Miroslav Radiměřský
+      age: 36
+      profession: analytik 
+      city: Prostějov
+      partyUid: pirati
+
+    - uid: max.trunecka
+      position: 13
+      name: Max Trunečka
+      age: 18
+      profession: student
+      city: Prostějov
+      partyUid: bezpp
+      
 ---
