@@ -60,4 +60,12 @@ head:
       profession: lekorka a spolumajitelka jóga studia
       city: Prostějov
       partyUid: bezpp
+      
+ -    uid: cislo.8
+      position: 8
+      name: Číslo 8 žije
+      age: ##
+      profession: ##
+      city: Prostějov
+      partyUid: bezpp
 ---
