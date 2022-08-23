@@ -1,6 +1,6 @@
 ---
 uid: David.Sup
-name:     David Šup    # běžně používáné jméno
+name:     Bc. David Šup    # běžně používáné jméno
 fullname: Bc. David Šup  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
