@@ -1,6 +1,6 @@
 ---
 uid: Jitka.Ungermanova
-name:     Jitka Ungermanová     # běžně používáné jméno
+name:     Mgr. Jitka Ungermanová     # běžně používáné jméno
 fullname: Mgr. Jitka Ungermanová   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
