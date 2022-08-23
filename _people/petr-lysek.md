@@ -1,6 +1,6 @@
 ---
 uid: petr.lysek
-name:     Petr Lysek   # běžně používáné jméno
+name:     Ing. Petr Lysek   # běžně používáné jméno
 fullname: Ing. Petr Lysek   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - prostejov
