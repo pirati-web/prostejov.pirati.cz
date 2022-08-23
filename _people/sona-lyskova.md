@@ -1,6 +1,6 @@
 ---
 uid: Sona.Lyskova
-name:     Soňa Lysková     # běžně používáné jméno
+name:     Mgr. Soňa Lysková     # běžně používáné jméno
 fullname: Mgr. Soňa Lysková   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
