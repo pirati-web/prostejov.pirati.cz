@@ -1,6 +1,6 @@
 ---
 uid: Lenka.Mochtakova
-name:     Lenka Mochťáková     # běžně používáné jméno
+name:     Mgr. Lenka Mochťáková     # běžně používáné jméno
 fullname: Mgr. Lenka Mochťáková   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
