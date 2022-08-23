@@ -1,6 +1,6 @@
 ---
 uid: Adela.Cecmanova
-name:     Adéla Čečmanová     # běžně používáné jméno
+name:     Mgr. Adéla Čečmanová     # běžně používáné jméno
 fullname: Adéla Čečmanová   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
