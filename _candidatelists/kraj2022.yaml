@@ -164,4 +164,36 @@ head:
       profession: student PedF Olomouc
       city: Prostějov
       partyUid: bezpp
+                                                
+    - uid: Sona.Lyskova
+      position: 21
+      name: Soňa Lysková
+      age: 31
+      profession: lektorka anglického jazyka, překladatelka
+      city: Prostějov
+      partyUid: bezpp
+                                                      
+    - uid: Martin.Soldan
+      position: 22
+      name: Martin Soldán
+      age: 49
+      profession: Facility manager, hudebník
+      city: Prostějov
+      partyUid: bezpp
+                                                            
+    - uid: Zuzana.Jezkova
+      position: 23
+      name: Zuzana Ježková
+      age: 31
+      profession: učitelka
+      city: Prostějov
+      partyUid: bezpp
+                                                                  
+    - uid: Bronislav.Winkler
+      position: 24
+      name: Bronislav Winkler
+      age: 49
+      profession: technik údržby
+      city: Prostějov
+      partyUid: bezpp
 ---
