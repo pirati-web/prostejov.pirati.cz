@@ -1,6 +1,6 @@
 ---
 uid: Zuzana.Jezkova
-name:     Zuzana Ježková     # běžně používáné jméno
+name:     Mgr. Zuzana Ježková     # běžně používáné jméno
 fullname: Mgr. Zuzana Ježková   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
