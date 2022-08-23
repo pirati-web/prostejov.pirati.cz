@@ -84,4 +84,20 @@ head:
       profession: Studentka VŠ, sociální pracovnice
       city: Prostějov
       partyUid: pirati
+                       
+    - uid: David.Chudozilov
+      position: 11
+      name: David Chudožilov
+      age: 19
+      profession: Student FJFI ČVUT
+      city: Prostějov
+      partyUid: pirati
+                             
+    - uid: Miroslav.Radimersky
+      position: 12
+      name: Miroslav Radiměřský
+      age: 36
+      profession: analytik 
+      city: Prostějov
+      partyUid: pirati
 ---
