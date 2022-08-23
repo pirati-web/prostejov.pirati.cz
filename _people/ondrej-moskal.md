@@ -1,6 +1,6 @@
 ---
 uid: ondrej.moskal
-name:     Ondřej Moskal          # běžně používáné jméno
+name:     Bc. Ondřej Moskal          # běžně používáné jméno
 fullname: Ondřej Moskal   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - prostejov
