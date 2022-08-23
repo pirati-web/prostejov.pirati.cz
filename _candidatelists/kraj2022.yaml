@@ -132,4 +132,36 @@ head:
       profession: tiskař, ekolog
       city: Prostějov
       partyUid: bezpp
+                        
+    - uid: David.Sup
+      position: 17
+      name: David Šup
+      age: 38
+      profession: Master Data Maintenance Specialist, místní patriot
+      city: Prostějov
+      partyUid: bezpp
+                              
+    - uid: Miroslav.Hasa
+      position: 18
+      name: Miroslav Hasa
+      age: 48
+      profession: OSVČ, dramaturg hudebního klubu
+      city: Prostějov
+      partyUid: pirati
+                                    
+    - uid: Ivo.Klimes
+      position: 19
+      name: Ivo Klimeš
+      age: 58
+      profession: obchodní zástupce
+      city: Prostějov
+      partyUid: bezpp
+                                          
+    - uid: Martin.Nemec
+      position: 20
+      name: Martin Němec
+      age: 20
+      profession: student PedF Olomouc
+      city: Prostějov
+      partyUid: bezpp
 ---
