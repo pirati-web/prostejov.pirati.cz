@@ -1,6 +1,6 @@
 ---
 uid: Miroslav.Radimersky
-name:     Miroslav Radiměřský     # běžně používáné jméno
+name:     Ing. Miroslav Radiměřský     # běžně používáné jméno
 fullname: Miroslav Radiměřský   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
