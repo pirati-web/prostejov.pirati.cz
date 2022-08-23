@@ -1,6 +1,6 @@
 ---
 uid: Jan.Mochtak
-name:     Jan Mochťák     # běžně používáné jméno
+name:     Mgr. Jan Mochťák     # běžně používáné jméno
 fullname: Jan Mochťák   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
