@@ -1,6 +1,6 @@
 ---
 uid: Alexandr.Trunecka
-name:     Alexandr Trunečka    # běžně používáné jméno
+name:     MuDr. Alexandr Trunečka    # běžně používáné jméno
 fullname: MuDr. Alexandr Trunečka   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
