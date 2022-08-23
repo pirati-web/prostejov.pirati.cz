@@ -83,7 +83,7 @@ head:
       age: 23
       profession: Studentka VŠ, sociální pracovnice
       city: Prostějov
-      partyUid: pirati
+      partyUid: bezpp
                        
     - uid: David.Chudozilov
       position: 11
@@ -91,7 +91,7 @@ head:
       age: 19
       profession: Student FJFI ČVUT
       city: Prostějov
-      partyUid: pirati
+      partyUid: bezpp
                              
     - uid: Miroslav.Radimersky
       position: 12
@@ -100,4 +100,28 @@ head:
       profession: analytik 
       city: Prostějov
       partyUid: pirati
+         
+    - uid: Max.Trunecka
+      position: 13
+      name: Max Trunečka
+      age: 18
+      profession: student 
+      city: Prostějov
+      partyUid: bezpp
+      
+    - uid: Alexandr.Trunecka
+      position: 14
+      name: Alexandr Trunečka
+      age: 49
+      profession: lékař
+      city: Prostějov
+      partyUid: bezpp
+            
+    - uid: Andrea.Moskalova
+      position: 15
+      name: Andrea Moskalová
+      age: 29
+      profession: lékarnice
+      city: Prostějov
+      partyUid: bezpp
 ---
