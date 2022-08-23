@@ -1,6 +1,6 @@
 ---
 uid: Eliska.Bursova
-name:     Eliška Buršová     # běžně používáné jméno
+name:     Bc. et Bc. Eliška Buršová     # běžně používáné jméno
 fullname: Bc. at Bc. Eliška Buršová   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
