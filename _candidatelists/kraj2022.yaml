@@ -124,4 +124,12 @@ head:
       profession: lékarnice
       city: Prostějov
       partyUid: bezpp
+                  
+    - uid: Lukas.Zwach
+      position: 16
+      name: Lukáš Zwach
+      age: 40
+      profession: tiskař, ekolog
+      city: Prostějov
+      partyUid: bezpp
 ---
