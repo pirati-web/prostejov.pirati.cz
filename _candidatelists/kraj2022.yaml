@@ -61,11 +61,27 @@ head:
       city: Prostějov
       partyUid: bezpp
       
-    - uid: cislo.8
+    - uid: Jakub.Smid
       position: 8
-      name: Číslo 8 žije
-      age: ##
-      profession: ##
+      name: Jakub Šmíd
+      age: 24
+      profession: Student VŠ, skaut
       city: Prostějov
-      partyUid: bezpp
+      partyUid: pirati
+            
+    - uid: Vit.Spichal
+      position: 9
+      name: Vít Spíchal
+      age: 19
+      profession: Student gymnázia
+      city: Prostějov
+      partyUid: pirati
+                   
+    - uid: Eliska.Bursova
+      position: 10
+      name: Eliška Buršová
+      age: 23
+      profession: Studentka VŠ, sociální pracovnice
+      city: Prostějov
+      partyUid: pirati
 ---
