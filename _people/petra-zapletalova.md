@@ -1,6 +1,6 @@
 ---
 uid: petra.zapletalova
-name:     Petra Zapletalová     # běžně používáné jméno
+name:     Bc. Petra Zapletalová     # běžně používáné jméno
 fullname: Bc. Petra Zapletalová    # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
