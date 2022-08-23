@@ -1,6 +1,6 @@
 ---
 uid: Andrea.Moskalova
-name:     Andrea Moskalová     # běžně používáné jméno
+name:     PharmDr. Andrea Moskalová     # běžně používáné jméno
 fullname: PharmDr. Andrea Moskalová   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
