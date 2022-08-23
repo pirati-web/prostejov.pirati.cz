@@ -1,6 +1,6 @@
 ---
 uid: Ivo.Klimes
-name:     Ivo Klimeš     # běžně používáné jméno
+name:     Ing. Ivo Klimeš     # běžně používáné jméno
 fullname: Ing. Ivo Klimeš   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
