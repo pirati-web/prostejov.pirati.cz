@@ -5,8 +5,8 @@ fullname: Jiří Mochťák   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 position:
-img: people/jiri-mochtak2.jpg       # 165 x 220
-img-full: people/jiri-mochtak2.jpg      # větší obrázek zobrazený na podrobném profilu
+img: people/jiri-mochtak3.png       # 165 x 220
+img-full: people/jiri-mochtak3.png      # větší obrázek zobrazený na podrobném profilu
 description: bez politické příslušnosti                # kratký popis, max 160 znaků
 mail:
 
