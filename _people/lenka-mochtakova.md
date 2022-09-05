@@ -5,8 +5,8 @@ fullname: Mgr. Lenka Mochťáková   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 position:
-img: people/neznamy1.jpg         # 165 x 220
-img-full: people/mochtakova_lenka.jpg       # větší obrázek zobrazený na podrobném profilu
+img: people/lenka-mochtakova.png         # 165 x 220
+img-full: people/lenka-mochtakova.png       # větší obrázek zobrazený na podrobném profilu
 description: bez politické příslušnosti                # kratký popis, max 160 znaků
 mail:
 
