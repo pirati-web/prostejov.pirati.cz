@@ -5,8 +5,8 @@ fullname: Adéla Čečmanová   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 position:
-img: people/adela-cecmanova3.png          # 165 x 220
-img-full: people/adela-cecmanova3.png       # větší obrázek zobrazený na podrobném profilu
+img: people/adela-cecmanova4.png        # 165 x 220
+img-full: people/adela-cecmanova4.png     # větší obrázek zobrazený na podrobném profilu
 description: bez politické příslušnosti                # kratký popis, max 160 znaků
 mail:
 - acecmanova@gmail.com
