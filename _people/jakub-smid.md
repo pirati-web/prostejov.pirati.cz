@@ -5,8 +5,8 @@ fullname: Jakub Šmíd   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 position:
-img: people/jakub-smid2.jpg        # 165 x 220
-img-full: people/jakub-smid2.jpg       # větší obrázek zobrazený na podrobném profilu
+img: people/jakub-smid3.png        # 165 x 220
+img-full: people/jakub-smid3.png      # větší obrázek zobrazený na podrobném profilu
 description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
 mail:
 
