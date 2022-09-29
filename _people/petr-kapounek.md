@@ -3,10 +3,10 @@ uid: petr.kapounek
 name:     Petr Kapounek  	# běžně používáné jméno
 fullname: Petr Kapounek  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- zastupitele
+- 
 position:
 img: people/petr-kapounek.jpg   # 165 x 220
-description: Člen Pirátů, zastupitel v Prostějově          	# kratký popis, max 160 znaků
+description: Člen Pirátů          	# kratký popis, max 160 znaků
 mail:
 - petr.kapounek@pirati.cz
 mob:			  
