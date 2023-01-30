@@ -3,8 +3,10 @@ uid: Filip.Pecha
 name:     Filip Pecha     # běžně používáné jméno
 fullname: Filip Pecha   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
-- 
-position:
+- prostejov
+- predsedove-ms
+- kontaktni_osoba
+position: Předseda místního sdružení
 img: people/filip-pecha3.png       # 165 x 220
 img-full: people/filip-pecha3.png      # větší obrázek zobrazený na podrobném profilu
 description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
