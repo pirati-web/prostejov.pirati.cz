@@ -9,7 +9,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: Předseda místního sdružení
 img: people/filip-pecha3.png       # 165 x 220
 img-full: people/filip-pecha3.png      # větší obrázek zobrazený na podrobném profilu
-description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
+description: Předseda místního sdružení Prostějov                # kratký popis, max 160 znaků
 mail:
 - filip.pecha@pirati.cz
 mob: 775 691 110  
