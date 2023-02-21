@@ -5,7 +5,7 @@ title: "Prostějov musí budovat moderní školskou politiku, která děti přip
 date: 2023-02-21
 tags: prostějov
 author: Martina Ježková
-image: articles/2023/mochtak03.jpg  #751x422 pixelu
+image: articles/2023/3.png  #751x422 pixelu
 ---
 *Prostějov 20.2.2023 -* **Městu Prostějov dlouhodobě chybí jasný směr a vize rozvoje školské politiky. Za Piráty to chceme změnit. Navrhujeme proto vytvořit koncepci školské politiky, zapojit do rozhodování učitele, rodiče, žáky a experty, zařídit studentský/žákovský parlament, participativní rozpočet ve školách a zkvalitnit fungování školských poradenských pracovišť na všech základních i mateřských školách v Prostějově.**
 
