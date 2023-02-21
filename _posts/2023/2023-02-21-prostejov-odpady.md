@@ -5,7 +5,7 @@ title: "Prostějov chce jít v odpadové politice vlastní nevýhodnou cestou be
 date: 2023-02-21
 tags: prostějov
 author: Martina Ježková
-image: articles/2023/DSC05913.jpg  #751x422 pixelu
+image: articles/2023/2.png  #751x422 pixelu
 ---
 *Prostějov 20.2.2023 -* **Město Prostějov se chce distancovat od společného projektu Odpady Olomouckého kraje a místo toho využít k úpravě odpadu soukromou společnost. Touto cestou však občané ani město nebudou mít žádnou jistotu stabilních cen za odpady. Piráti jsou jednoznačně proti a staví se za společný krajský projekt.** 
 
