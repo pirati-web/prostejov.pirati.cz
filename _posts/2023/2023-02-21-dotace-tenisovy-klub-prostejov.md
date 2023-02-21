@@ -5,7 +5,7 @@ title: "Piráti jsou jednoznačně proti neplánovanému 3,5 milionovému přís
 date: 2023-02-21
 tags: prostějov
 author: Martina Ježková
-image: articles/2023/DSC05364.jpg  #751x422 pixelu
+image: articles/2023/1.png  #751x422 pixelu
 ---
 *Prostějov, 17. 2. 2023 -* **Rada města Prostějova doporučila zastupitelstvu na svém lednovém zasedání schválit příspěvek 3,5 milionu korun pro soukromou společnost TK PLUS. Při přípravě a schvalování rozpočtu však s tímto výdajem nebylo vůbec počítáno. Pokud zastupitelstvo příspěvek schválí, dojde k dalšímu posunutí 330 potřebných investic, které čekají na svou realizaci.** 
 
