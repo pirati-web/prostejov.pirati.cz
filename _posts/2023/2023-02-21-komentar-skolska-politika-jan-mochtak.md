@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Prostějov musí budovat moderní školskou politiku, která děti připraví na život"
+title: "komentář prostějovského zastupitele Jana Mochťáka: Prostějov musí budovat moderní školskou politiku, která děti připraví na život"
 date: 2023-02-21
 tags: prostějov
 author: Martina Ježková
