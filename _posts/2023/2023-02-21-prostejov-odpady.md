@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Prostějov chce jít v odpadové politice vlastní nevýhodnou cestou bez jistot. Piráti jsou proti tomu"
+title: "tisková zpráva: Prostějov chce jít v odpadové politice vlastní nevýhodnou cestou bez jistot. Piráti jsou proti tomu"
 date: 2023-02-21
 tags: prostějov
 author: Martina Ježková
