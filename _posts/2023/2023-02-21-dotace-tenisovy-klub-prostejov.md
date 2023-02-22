@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Piráti jsou jednoznačně proti neplánovanému 3,5 milionovému příspěvku pro TK PLUS!"
+title: "tisková zpráva: Piráti jsou jednoznačně proti neplánovanému 3,5 milionovému příspěvku pro TK PLUS!"
 date: 2023-02-21
 tags: prostějov
 author: Martina Ježková
